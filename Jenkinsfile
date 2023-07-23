@@ -1,4 +1,3 @@
-
 pipeline{
 
   agent any
@@ -11,7 +10,7 @@ pipeline{
 
   tools{
 
-    maven 'maven_home'
+    maven "maven_home"
 
   }
 
