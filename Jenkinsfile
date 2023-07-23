@@ -10,7 +10,7 @@ pipeline{
 
   tools{
 
-    maven "maven_home"
+    maven "MAVEN_HOME"
 
   }
 
